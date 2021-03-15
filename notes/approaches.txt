@@ -1,0 +1,39 @@
+How to improve:
+    1.  DEVISE a plan for solving problems
+    2.  MASTER common problem solving patterns
+
+Problem solving:
+    - understand the problem
+        - can I restate the problem in my own words?
+        - what are the inputs that go into the problem?
+        - what are the outputs that should come from the solution to the problem?
+        - can the outputs be determined from the inputs?
+            - do I have enough information to solve the problem
+        - how should I label the important pieces of data that are a part of the problem?
+=====================================================
+Write a function which takes two number and returns their sum.
+
+1. can I restate the problem in my own words?
+    "implement addition"
+2. what are the inputs that go into the problem?
+    - ints?
+    - floats?
+    - what about strings for large numbers?
+3. what are the outputs that should come from the solution to the problem?
+    - int? float? string?
+4. can the outputs be determined from the inputs?
+    
+5. how should I label the important pieces of data that are a part of the problem?
+
+=====================================================
+    - explore concrete examples
+=====================================================
+Write a function which takes two number and returns their sum.
+
+- start with simple examples
+
+=====================================================
+    - break it down
+    - solve/simplify
+    - look back and refactor
+
